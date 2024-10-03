@@ -12,7 +12,13 @@ The document contains several PowerShell scripts designed to manage and report o
 
 ```powershell
 
-TIP: You can copy - paste the scripts using the top-right icon on each code section.
+# TIP: You can copy - paste the scripts using the top-right icon on each code section.
+
+$FirstName = "Valentin"
+$LastName = "Paris"
+$Role = "Customer Engineer"
+
+Write-Host "Hello, I am $FirstName $LastName, and I am a $Role. `n I will be the engineer who will take care of you today."
 
 ```
 
