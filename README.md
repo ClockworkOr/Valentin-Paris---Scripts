@@ -60,7 +60,7 @@ Get-Mailbox -ResultSize Unlimited | ForEach-Object {
 Write-Output "Single Item Recovery has been enabled for all mailboxes."
 ```
 
-#RETENTION POLICIES SCRIPT
+# RETENTION POLICIES SCRIPT
 
 ```powershell
 #RETENTION POLICIES SCRIPT:
