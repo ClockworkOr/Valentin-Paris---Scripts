@@ -1,4 +1,6 @@
-# Valentin-Paris---Scripts
+# VALENTIN PARIS - SCRIPTS
+
+This page contains some useful scripts from Valentin Paris, Customer Engineer at Microsoft.
 
 ```powershell
 ```
