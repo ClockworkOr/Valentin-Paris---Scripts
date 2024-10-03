@@ -4,7 +4,7 @@ This page contains some useful scripts from Valentin Paris, Customer Engineer at
 
 The document contains several PowerShell scripts designed to manage and report on various aspects of an Exchange Online environment. Here are the key sections:
 
-- **Forwarding** Settings Report: This script gathers all types of forwarding currently in place, including remote domain auto forward settings, inbox rules auto forward, and mail flow rules auto forward or redirect. The results are exported to a CSV file named ForwardingReport.csv1.
+- **Forwarding Settings Report**: This script gathers all types of forwarding currently in place, including remote domain auto forward settings, inbox rules auto forward, and mail flow rules auto forward or redirect. The results are exported to a CSV file named ForwardingReport.csv1.
 
 - **Single Item Recovery**: This script enables single item recovery for all tenant mailboxes. It iterates through all mailboxes and sets the SingleItemRecoveryEnabled property to $true1.
 
