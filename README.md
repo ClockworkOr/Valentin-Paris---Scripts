@@ -3,6 +3,7 @@
 This page contains some useful scripts from Valentin Paris, Customer Engineer at Microsoft.
 
 ```powershell
+TIP: You can copy - paste the scripts using the top-right icon on each code section.
 ```
 
 # GATHER ALL TYPES OF FORWARDING CURRENTLY IN PLACE
