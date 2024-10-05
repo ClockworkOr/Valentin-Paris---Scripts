@@ -22,7 +22,7 @@ Write-Host "Hello, I am $FirstName $LastName, and I am a $Role. `n I will be the
 
 ```
 
-# GATHER ALL TYPES OF FORWARDING CURRENTLY IN PLACE
+## GATHER ALL TYPES OF FORWARDING CURRENTLY IN PLACE
 
 ```powershell
 #GATHER ALL TYPES OF FORWARDING CURRENTLY IN PLACE
@@ -63,7 +63,7 @@ $results | Export-Csv -Path $outputFile -NoTypeInformation
 Write-Output "Forwarding report exported to $outputFile"
 ```
 
-# ENABLE SINGLE ITEM RECOVERY FOR ALL TENANT MAILBOXES
+## ENABLE SINGLE ITEM RECOVERY FOR ALL TENANT MAILBOXES
 
 ```powershell
 # ENABLE SINGLE ITEM RECOVERY FOR ALL TENANT MAILBOXES
@@ -76,7 +76,7 @@ Get-Mailbox -ResultSize Unlimited | ForEach-Object {
 Write-Output "Single Item Recovery has been enabled for all mailboxes."
 ```
 
-# RETENTION POLICIES SCRIPT
+## RETENTION POLICIES SCRIPT
 
 ```powershell
 #RETENTION POLICIES SCRIPT:
