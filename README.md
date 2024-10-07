@@ -2,7 +2,7 @@
 
 This page contains some useful scripts from Valentin Paris, Customer Engineer at Microsoft.
 
-The document contains several PowerShell scripts designed to manage and report on various aspects of an Exchange Online environment. Here are the key sections:
+Below are several PowerShell scripts designed to manage and report on various aspects of an Exchange Online environment. Here are the key sections:
 
 - **Forwarding Settings Report**: This script gathers all types of forwarding currently in place, including remote domain auto forward settings, inbox rules auto forward, and mail flow rules auto forward or redirect. The results are exported to a CSV file named ```ForwardingReport.csv```.
 
